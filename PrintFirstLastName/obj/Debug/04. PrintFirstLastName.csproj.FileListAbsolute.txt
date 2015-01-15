@@ -1,0 +1,3 @@
+c:\users\nickey\documents\visual studio 2013\Projects\ConsoleApplication1\PrintFirstLastName\bin\Debug\PrintFirstLastName.exe.config
+c:\users\nickey\documents\visual studio 2013\Projects\ConsoleApplication1\PrintFirstLastName\obj\Debug\PrintFirstLastName.exe
+c:\users\nickey\documents\visual studio 2013\Projects\ConsoleApplication1\PrintFirstLastName\obj\Debug\PrintFirstLastName.pdb

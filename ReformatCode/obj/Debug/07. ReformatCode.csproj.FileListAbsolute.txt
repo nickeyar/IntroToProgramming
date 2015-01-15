@@ -1,0 +1,5 @@
+c:\users\nickey\documents\visual studio 2013\Projects\ConsoleApplication1\ReformatCode\bin\Debug\ReformatCode.exe.config
+c:\users\nickey\documents\visual studio 2013\Projects\ConsoleApplication1\ReformatCode\bin\Debug\ReformatCode.exe
+c:\users\nickey\documents\visual studio 2013\Projects\ConsoleApplication1\ReformatCode\bin\Debug\ReformatCode.pdb
+c:\users\nickey\documents\visual studio 2013\Projects\ConsoleApplication1\ReformatCode\obj\Debug\ReformatCode.exe
+c:\users\nickey\documents\visual studio 2013\Projects\ConsoleApplication1\ReformatCode\obj\Debug\ReformatCode.pdb
