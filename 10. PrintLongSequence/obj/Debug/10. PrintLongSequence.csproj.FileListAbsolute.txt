@@ -7,3 +7,6 @@ C:\Users\nickey\documents\visual studio 2013\Projects\ConsoleApplication1\10. Pr
 C:\Users\nickey\Documents\Visual Studio 2013\Projects\IntroToProgramming\10. PrintLongSequence\bin\Debug\_10.PrintLongSequence.exe.config
 C:\Users\nickey\Documents\Visual Studio 2013\Projects\IntroToProgramming\10. PrintLongSequence\obj\Debug\_10.PrintLongSequence.exe
 C:\Users\nickey\Documents\Visual Studio 2013\Projects\IntroToProgramming\10. PrintLongSequence\obj\Debug\_10.PrintLongSequence.pdb
+C:\Users\nickey\Documents\GitHub\IntroToProgramming\10. PrintLongSequence\bin\Debug\_10.PrintLongSequence.exe.config
+C:\Users\nickey\Documents\GitHub\IntroToProgramming\10. PrintLongSequence\obj\Debug\_10.PrintLongSequence.exe
+C:\Users\nickey\Documents\GitHub\IntroToProgramming\10. PrintLongSequence\obj\Debug\_10.PrintLongSequence.pdb
